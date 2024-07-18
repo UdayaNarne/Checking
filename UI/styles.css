@@ -1,0 +1,31 @@
+.top{
+    background-color: red;
+    display:flex;
+    justify-content: space-between;
+
+}
+.search{
+    margin:20px;
+    width:500px;
+}
+h1{
+    color:white;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+}
+.heads{
+    display:flex;
+}
+.row{
+    align-items:center;
+    background-color:white;
+    border:none;
+   
+}
+.zomato> h1{
+    margin:30px;
+    text-align:center;
+    color:black;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: normal;
+}
